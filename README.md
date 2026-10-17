@@ -10,6 +10,16 @@ Aplikasi sederhana berbasis React Typescript dengan Framework Next JS untuk menc
 - Tandai Tugas Selesai
 - Hapus Tugas
 
+## Struktur Folder
+
+- app/ (ini untuk folder core)
+- features ()
+- public
+- shared
+- views ()
+  /to-do/ui/ToDoListPage.tsx views utama
+- widgets
+
 ## Getting Started
 
 First, run the development server:
@@ -26,6 +36,6 @@ bun dev
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+## Kontributor
 
-## To Do List APP
+- [Amillio Ardha Mulana(https://github.com/ami-ardha/lsp-amillio-ardha)]
